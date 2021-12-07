@@ -2,7 +2,7 @@
 //Carne: 9490-12-3785
 //Automatas y Lenguajes Formales
 //1er Parcial
-//Problema 2
+//Problema 3
 
 #include <stdio.h>
 #include <iostream>
